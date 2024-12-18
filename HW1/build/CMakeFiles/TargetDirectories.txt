@@ -1,0 +1,5 @@
+/Users/lshlshlsh/Desktop/MTH 9815/HW1/build/CMakeFiles/Exercise1.dir
+/Users/lshlshlsh/Desktop/MTH 9815/HW1/build/CMakeFiles/Exercise2.dir
+/Users/lshlshlsh/Desktop/MTH 9815/HW1/build/CMakeFiles/Exercise3.dir
+/Users/lshlshlsh/Desktop/MTH 9815/HW1/build/CMakeFiles/edit_cache.dir
+/Users/lshlshlsh/Desktop/MTH 9815/HW1/build/CMakeFiles/rebuild_cache.dir
